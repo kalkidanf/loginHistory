@@ -1,0 +1,19 @@
+.searchBlock{
+	display:block;
+	padding-top:10px;
+}
+
+table{
+   frame:box;
+   border-collapse: collapse;
+}
+tfoot input {
+        width: 100%;
+        padding: 3px;
+        box-sizing: border-box;
+        display: table-header-group;
+    }
+.dataTables_filter{display:none;}
+td{text-align:center;}
+#datepicker{enabled:true;}
+
